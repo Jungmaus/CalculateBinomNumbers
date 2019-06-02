@@ -1,0 +1,11 @@
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\bin\Debug\netcoreapp2.1\CalculateBinomNumbers.deps.json
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\bin\Debug\netcoreapp2.1\CalculateBinomNumbers.runtimeconfig.json
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\bin\Debug\netcoreapp2.1\CalculateBinomNumbers.runtimeconfig.dev.json
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\bin\Debug\netcoreapp2.1\CalculateBinomNumbers.dll
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\bin\Debug\netcoreapp2.1\CalculateBinomNumbers.pdb
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.AssemblyInfo.cs
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.dll
+C:\Users\Samet\source\repos\CalculateBinomNumbers\CalculateBinomNumbers\obj\Debug\netcoreapp2.1\CalculateBinomNumbers.pdb
